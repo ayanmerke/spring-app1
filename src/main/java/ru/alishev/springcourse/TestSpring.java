@@ -25,15 +25,14 @@ public class TestSpring {
         Computor computor = context.getBean("computor", Computor.class);
         System.out.println(computor);
 
+        // для гит проверка
         // ручного создания объета уже нет
-
+//
 //        MusicPlayer firstMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
 //        MusicPlayer secondMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
 //
 //        boolean comparison = firstMusicPlayer == secondMusicPlayer;
-//
 //        System.out.println(comparison);
-//
 //        System.out.println(firstMusicPlayer);
 //        System.out.println(secondMusicPlayer);
 //
