@@ -25,7 +25,10 @@ public class TestSpring {
         Computor computor = context.getBean("computor", Computor.class);
         System.out.println(computor);
 
+
+        //7й или 8 й
         // для гит проверка
+        // для гит проверка 2
         // ручного создания объета уже нет
 //
 //        MusicPlayer firstMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
@@ -40,7 +43,6 @@ public class TestSpring {
 //
 //        System.out.println(firstMusicPlayer.getVolume());
 //        System.out.println(secondMusicPlayer.getVolume());
-//
 //        //System.out.println(musicPlayer.getName());
 //        //System.out.println(musicPlayer.getVolume());
 
