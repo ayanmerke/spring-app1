@@ -25,6 +25,8 @@ public class TestSpring {
         Computor computor = context.getBean("computor", Computor.class);
         System.out.println(computor);
 
+
+        //7й или 8 й
         // для гит проверка
         // для гит проверка 2
         // ручного создания объета уже нет
