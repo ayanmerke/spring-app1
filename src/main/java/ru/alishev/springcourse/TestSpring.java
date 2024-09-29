@@ -26,6 +26,7 @@ public class TestSpring {
         System.out.println(computor);
 
         // для гит проверка
+        // для гит проверка 2
         // ручного создания объета уже нет
 //
 //        MusicPlayer firstMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
@@ -40,7 +41,6 @@ public class TestSpring {
 //
 //        System.out.println(firstMusicPlayer.getVolume());
 //        System.out.println(secondMusicPlayer.getVolume());
-//
 //        //System.out.println(musicPlayer.getName());
 //        //System.out.println(musicPlayer.getVolume());
 
