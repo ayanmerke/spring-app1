@@ -26,10 +26,11 @@ public class TestSpring {
         System.out.println(computor);
 
 
-        //7й или 8 й
+        //7й или 8 й  ььь    ьльльл
         // для гит проверка
         // для гит проверка 2
         // ручного создания объета уже нет
+        // новое
 //
 //        MusicPlayer firstMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
 //        MusicPlayer secondMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
